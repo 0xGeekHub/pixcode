@@ -1,5 +1,5 @@
 # Pixcode
-Pixcode is a nice and easy to implement way to encode your data to pixels. You can easily encode almost any file to pixels (also remember that houge files takes more time to encrypt and decrypt).
+Pixcode is a nice and easy to implement way to encode your data to pixels. You can easily encode almost any file to pixels (also remember that huge files takes more time to encrypt and decrypt).
 
 ### Installation
 First of all clone this repo using:
