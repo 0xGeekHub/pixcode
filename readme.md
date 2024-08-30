@@ -10,11 +10,5 @@ then install requirements using:
 ```bash
 python3 -m pip3 install -r requirements.txt
 ```
-after that for encryption:
-```bash
-python3 pixcode.py [file-name-to-encrypt.*] e [output-name]
-```
-and for decryption:
-```bash
-python3 pixcode.py [file-name-to-decrypt.*] d [output-name]
-```
+after that for encoding, use `encode` or `encode_bytes` functions based on your needs.
+And for decoding, use their correspondings, `decode` or `decode_bytes` functions based on your needs.
